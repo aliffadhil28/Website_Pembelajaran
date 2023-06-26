@@ -1,0 +1,13 @@
+.nav-link:hover {
+  background-color: #2eb0e9;
+  border-radius: 8px;
+  color: #fff;
+  box-shadow: #939393;
+}
+
+.nav-link:active {
+  background-color: #1c91c3;
+  border-radius: 8px;
+  color: #fff;
+  box-shadow: #797979;
+}
